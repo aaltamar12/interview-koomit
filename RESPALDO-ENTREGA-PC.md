@@ -1,4 +1,9 @@
-# Respaldo al entregar el PC (2026-11-13)
+> ## ⚠️ ESTA RAMA FALTA MIGRAR
+>
+> Tiene trabajo que solo existía en el PC entregado el 2026-11-13. **Debe integrarse a `main`**: no la borre ni cierre su PR sin revisarla.
+> Antes del merge, borre este archivo. Si `main` despliega sola, el merge publica.
+
+# Respaldo del PC entregado (2026-11-13)
 
 Esta rama guarda trabajo que solo existía en el PC que se entregó. No es una rama de trabajo normal: revísela e intégrela a mano.
 
