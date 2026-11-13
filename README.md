@@ -42,3 +42,7 @@ Your code must be implemented to be as performant as possible. Additionally, be 
 
 
 **Good luck :)**
+
+# RUN
+Run with ruby (any version) with `ruby doubly_linked_list.rb`
+Missing test but is running step by step on the code
